@@ -27,7 +27,7 @@ body{
     flex-wrap:wrap;
     justify-content: center;
     width:70%;
-    height:70%;
+    height:auto;
 }
 img{
     margin-top:10px;
