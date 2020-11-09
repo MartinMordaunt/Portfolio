@@ -26,7 +26,6 @@ body{
     display:flex;
     flex-wrap:wrap;
     justify-content: center;
-    max-width:70%;
     width:70%;
     height:auto;
 }
@@ -35,8 +34,6 @@ img{
     margin-bottom:10px;
     /* width:1200px;
     height:652px; */
-    max-width:70%;
-    max-height:80%;
     width:auto;
     height:auto;
 }
